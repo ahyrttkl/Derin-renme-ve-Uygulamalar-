@@ -1,1 +1,1 @@
-# Derin-renme-ve-Uygulamalar-
+# Deep Learning
