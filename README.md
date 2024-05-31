@@ -1,2 +1,2 @@
 # Deep Learning
-MEB Formatör Öğretmenler için Derin Öğrenme ve Uygulamaları dersi icin hazırlanmıştır 
+MEB Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü'ne Derin Öğrenme ve Uygulamaları dersi icin hazırlanmıştır 
