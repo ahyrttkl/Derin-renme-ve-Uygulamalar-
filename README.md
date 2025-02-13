@@ -1,2 +1,2 @@
 # Deep Learning
-MEB Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü'ne Derin Öğrenme ve Uygulamaları dersi icin hazırlanmıştır 
+Prepared for the Deep Learning and Applications course for the General Directorate of Innovation and Educational Technologies of the Ministry of National Education of the Republic of Turkey.
